@@ -1,0 +1,3 @@
+Monstre:Personnage {
+    
+}
