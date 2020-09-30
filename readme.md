@@ -1,6 +1,6 @@
 # Projet sio Crawl
 
-Presentation du projet : le but est de réaliser un jeu de rôle multijoueurs permettant aux étudiants du bts sio de se divertir  pendant les heures de cantine mais surtout  d’améliorer leur s compétences en matière de dével
+Presentation du projet : le but est de réaliser un jeu de rôle multijoueurs permettant aux étudiants du bts sio de se divertir  pendant les heures de cantine mais surtout  d’améliorer leur s compétences en matière de développement.
 
 Les outils mes en œuvre:
 
